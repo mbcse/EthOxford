@@ -21,7 +21,8 @@ To address these challenges and provide a common Interface and Gateway for inter
 - The design of this protocol has be kept modular, any protocol can be integrated easily by just deploying implementation contract for it.
 - This protocol benefits users as well as developers from the percepective of UI, Fees, ease of using, ease of integrating, etc.
 
-This protocol is available on Polygon ZKEVM, Mantle Testnet, Scroll Testnet, Goerli, Sepolia, and Mumbai. All contract addresses and abi and details are present in the GitHub repo.
+Its deployed on multiple chains but you can currently test on Polygon, avalanche and Dispatch Subnet!
+All contract addresses and abi and details are present in the GitHub repo.
 
 ## Testing 
 ### ROUTE IDs:
